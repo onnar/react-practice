@@ -1,0 +1,129 @@
+[
+    {
+		"id": 0,
+		"title": "TBH SHOP",
+		"type": "구축",
+		"imgPath": "/assets/img/1.jpg",
+		"display": true
+	},
+	{
+		"id": 1,
+		"title": "모코블링",
+		"type": "리뉴얼",
+		"imgPath": "/assets/img/2.jpg",
+		"display": true
+	},
+	{
+		"id": 2,
+		"title": "내츄럴라이프",
+		"type": "운영, 유지보수",
+		"imgPath": "/assets/img/3.jpg",
+		"display": true
+	},
+	{
+		"id": 3,
+		"title": "돌리버리",
+		"type": "구축",
+		"imgPath": "/assets/img/4.jpg",
+		"display": true
+	},
+	{
+		"id": 4,
+		"title": "클라라",
+		"type": "구축",
+		"imgPath": "/assets/img/5.jpg",
+		"display": true
+	},
+	{
+		"id": 5,
+		"title": "인동에프엔 IDF MALL",
+		"type": "구축",
+		"imgPath": "/assets/img/7.jpg",
+		"display": true
+	},
+	{
+		"id": 6,
+		"title": "임블리",
+		"type": "리뉴얼",
+		"imgPath": "/assets/img/8.jpg",
+		"display": true
+	},
+	{
+		"id": 7,
+		"title": "셀렉온",
+		"type": "구축",
+		"imgPath": "/assets/img/9.jpg",
+		"display": true
+	},
+	{
+		"id": 8,
+		"title": "에바주니",
+		"type": "리뉴얼",
+		"imgPath": "/assets/img/15.jpg",
+		"display": true
+	},
+	{
+		"id": 9,
+		"title": "호밀",
+		"type": "리뉴얼",
+		"imgPath": "/assets/img/14.jpg",
+		"display": true
+	},
+	{
+		"id": 10,
+		"title": "좋은사람들 B2C",
+		"type": "구축",
+		"imgPath": "/assets/img/11.jpg",
+		"display": true
+	},
+	{
+		"id": 11,
+		"title": "남도애꽃",
+		"type": "리뉴얼",
+		"imgPath": "/assets/img/12.jpg",
+		"display": true
+	},
+	{
+		"id": 12,
+		"title": "쉬비치",
+		"type": "리뉴얼",
+		"imgPath": "/assets/img/6.jpg",
+		"display": true
+	},
+	{
+		"id": 13,
+		"title": "위드이픈",
+		"type": "리뉴얼",
+		"imgPath": "/assets/img/16.jpg",
+		"display": true
+	},
+	{
+		"id": 14,
+		"title": "",
+		"type": "",
+		"imgPath": "",
+		"display": false
+	},
+	{
+		"id": 15,
+		"title": "",
+		"type": "",
+		"imgPath": "",
+		"display": false
+	},
+	{
+		"id": 16,
+		"title": "",
+		"type": "",
+		"imgPath": "",
+		"display": false
+	}
+	,
+	{
+		"id": 17,
+		"title": "",
+		"type": "",
+		"imgPath": "",
+		"display": false
+	}
+]
