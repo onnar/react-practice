@@ -5,10 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const modal = ReactDOM.createRoot(document.getElementById('modal'));
 root.render(
-  <React.StrictMode>
+  //StrictMode 개발모드에서만 동작, 두번씩 호출
+  //<React.StrictMode>
     <App />
-  </React.StrictMode>
+  //</React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
